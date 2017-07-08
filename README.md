@@ -7,3 +7,5 @@ We plan to portray 4 major and easily distinguishable emotions viz. Happy, Sad, 
 #Results:
 
 An accuracy of 81.68% was achieved using XGBoost classifer (better than the average of 75% accuracy in classifying emotions from real-time audio).
+
+https://www.youtube.com/watch?v=fsO77-WEuK0
