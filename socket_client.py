@@ -14,3 +14,4 @@ while 1:
         break
     s.send(text.encode('utf-8'))
 s.close()
+print("scm")
